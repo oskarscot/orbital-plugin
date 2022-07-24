@@ -1,0 +1,9 @@
+name: OrbitalPlugin
+version: '${project.version}'
+main: me.oskarscot.orbital.OrbitalPlugin
+api-version: 1.19
+
+commands:
+  fire:
+  lightning:
+  explode:
